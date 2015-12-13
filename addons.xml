@@ -6,7 +6,7 @@
         <extension point="xbmc.addon.repository" name="repo">
             <info compressed="false">https://rawgit.com/tictalk/kodi/tree/master/addons.xml</info>
             <checksum>https://rawgit.com/tictalk/kodi/tree/master/addons.xml.md5</checksum>
-            <datadir zip="true">https://rawgit.com/tictalk/kodi/tree/master</datadir>
+            <datadir zip="true">https://rawgit.com/tictalk/kodi/tree/master/_repo</datadir>
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
