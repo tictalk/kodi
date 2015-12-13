@@ -1,0 +1,14 @@
+
+name="alldevice"ù
+url="https://copy.com/XhQCfKiaKOrNbV0V"
+img="https://copy.com/YTNBwxaMTrHTzCeX"
+fanart="https://copy.com/6OIxPHVQDSvgA0Jy"
+description="Number 1 Kodi Wizard by @chef1"
+
+
+
+name="Fire_tv"ù
+url="https://copy.com/VHXxgXmwWe8j6qU1"
+img="https://copy.com/3MiQVhgAau8HCNW7"
+fanart="https://copy.com/ljqCiWqrdM3ALzF8"
+description="Number 1 Kodi Wizard by @chef1"
